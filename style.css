@@ -1,0 +1,88 @@
+*{
+    padding: 0;
+    margin: 0;}
+body{
+color: white;
+background-color: black;
+}
+header{
+    background-color: #48C5CE;}
+.title{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;}
+
+section{
+    padding: 20px;
+    background-image: url(./Assets/lolla.jpg);
+    overflow: hidden;
+    background-size: cover;
+    background-position: center;
+}
+.container{
+
+    margin: auto;
+    
+}    
+.forma{
+    max-width: 230px;
+    background-color: #FFFFFFBB;
+    color: black;
+    padding: 20px;
+    margin: 10px;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 0.5cm;
+
+}
+h2{
+    font-size: 18px;
+}
+.p1{
+    font-size: 18px;
+    font-weight: bold;
+    font-style: italic;
+}
+.mb{
+    margin-bottom: 15px;
+}
+input, select{
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10%;
+    border: none;
+    margin-bottom: 10px;
+}
+input[type="submit"]{
+    color:white;
+    background-color: #48C5CE;
+    font-weight: bold;
+}
+.localpic{
+    width: 180PX;
+}
+footer{
+    display: flex;
+    justify-content: center;
+    background-color: #202121;
+    padding: 40px;
+    text-align: center;
+}
+.paris{
+    max-width: 280px;
+}
+.desc{
+    display: inline-block;
+    max-width: 40%;
+    margin-top: 40px;
+    margin-left: 40px;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+a{
+    color: white;
+}
+h2{
+    font-size: 20px;
+}
